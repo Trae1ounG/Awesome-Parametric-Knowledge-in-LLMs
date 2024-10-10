@@ -1,7 +1,8 @@
-# Parametric Knowledge Mechanism in Large Language Models.
+<h1 align="center"> Awesome Parametric Knowledge in LLMs</h1>
 
+<h1 align="center">
 
-
+<div>
 [![LICENSE](https://img.shields.io/github/license/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)](https://github.com/Trae1ounG/Awesome-parametric-Knowledge-in-LLMs/blob/main/LICENSE)
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 [![commit](https://img.shields.io/github/last-commit/Trae1ounG/Awesome-parametric-Knowledge-in-LLMs?color=blue)](https://github.com/Xnhyacinth/Long_Text_Modeling_Papers/commits/main)
@@ -11,6 +12,7 @@
 
 </div>
 
+</h1>
 # Prametric Knowledge Detection
 ## Knowledge in Transformer-based Model🧠
 ### 2024
