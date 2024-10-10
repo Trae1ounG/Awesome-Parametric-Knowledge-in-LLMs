@@ -19,8 +19,7 @@
 
     *Jingcheng Niu, Andrew Liu, Zining Zhu, Gerald Penn.*   ICLR'24(Spotlight)
 ### 2022
-1. **[Knowledge Neurons in Pretrained Transformers](https://arxiv.org/abs/2104.08696)**[[code](https://github.com/
-Hunter-DDM/knowledge-neurons)]
+1. **[Knowledge Neurons in Pretrained Transformers](https://arxiv.org/abs/2104.08696)**[[code](https://github.com/Hunter-DDM/knowledge-neurons)]
 
     *Damai Dai, Li Dong, Yaru Hao, Zhifang Sui, Baobao Chang, Furu Wei.* ACL'22
 ### 2021
