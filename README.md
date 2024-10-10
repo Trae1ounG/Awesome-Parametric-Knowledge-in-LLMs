@@ -19,7 +19,7 @@
 
     *Jingcheng Niu, Andrew Liu, Zining Zhu, Gerald Penn.*   ICLR'24(Spotlight)
 ### 2022
-1. **[Knowledge Neurons in Pretrained Transformers](https://arxiv.org/abs/2104.08696)**[[code](https://github.com/Hunter-DDM/knowledge-neurons)]
+1. **[Knowledge Neurons in Pretrained Transformers](https://arxiv.org/abs/2104.08696)**[[code](https://github.comHunter-DDM/knowledge-neurons)]
 
     *Damai Dai, Li Dong, Yaru Hao, Zhifang Sui, Baobao Chang, Furu Wei.* ACL'22
 ### 2021
@@ -64,3 +64,8 @@
 1. **[Seeking Neural Nuggets: Knowledge Transfer in Large Language Models from a Parametric Perspective](https://arxiv.org/abs/2310.11451)**
 
  *Ming Zhong, Chenxin An, Weizhu Chen, Jiawei Han, Pengcheng He.* ICLR'24
+
+### 2023
+1. **[Mutual enhancement of large and small language models with cross-silo knowledge transfer](https://arxiv.org/abs/2312.05842)**
+
+    *Yongheng Deng, Ziqing Qiao, Ju Ren, Yang Liu, Yaoxue Zhang.* Preprint'23
