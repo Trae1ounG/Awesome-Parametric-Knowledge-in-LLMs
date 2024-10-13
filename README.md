@@ -69,3 +69,9 @@
 1. **[Mutual enhancement of large and small language models with cross-silo knowledge transfer](https://arxiv.org/abs/2312.05842)**
 
     *Yongheng Deng, Ziqing Qiao, Ju Ren, Yang Liu, Yaoxue Zhang.* Preprint'23
+
+## Knowledge Distillation
+### 2024
+1. **[PromptKD: Distilling Student-Friendly Knowledge for Generative Language Models via Prompt Tuning](https://arxiv.org/abs/2402.12842)**[[code](https://promptkd.github.io/)]
+
+    *Gyeongman Kim, Doohyuk Jang, Eunho Yang.* EMNLP'24 findings
