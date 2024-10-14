@@ -73,8 +73,10 @@
 1. **[Mutual enhancement of large and small language models with cross-silo knowledge transfer](https://arxiv.org/abs/2312.05842)**
 
     *Yongheng Deng, Ziqing Qiao, Ju Ren, Yang Liu, Yaoxue Zhang.* Preprint'23
+### 2021
+1. **[Weight distillation: Transferring the knowledge in neural network parameters](https://arxiv.org/abs/2009.09152)[[code](https://github.com/Lollipop321/weight-distillation)]
 
-
+    *Ye Lin, Yanyang Li, Ziyang Wang, Bei Li, Quan Du, Tong Xiao, Jingbo Zhu.* ACL'21
 ## Knowledge Distillation
 ### 2024
 1. **[PromptKD: Distilling Student-Friendly Knowledge for Generative Language Models via Prompt Tuning](https://arxiv.org/abs/2402.12842)**[[code](https://promptkd.github.io/)]
