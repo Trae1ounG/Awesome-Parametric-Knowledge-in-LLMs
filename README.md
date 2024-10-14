@@ -65,10 +65,15 @@
 
  *Ming Zhong, Chenxin An, Weizhu Chen, Jiawei Han, Pengcheng He.* ICLR'24
 
+2. **[Initializing models with larger ones](https://arxiv.org/abs/2311.18823)**[[code](https://github.com/OscarXZQ/weight-selection)]
+
+    *Zhiqiu Xu, Yanjie Chen, Kirill Vishniakov, Yida Yin, Zhiqiang Shen, Trevor Darrell, Lingjie Liu, Zhuang Liu.* ICLR'24 **Spotlight**
+
 ### 2023
 1. **[Mutual enhancement of large and small language models with cross-silo knowledge transfer](https://arxiv.org/abs/2312.05842)**
 
     *Yongheng Deng, Ziqing Qiao, Ju Ren, Yang Liu, Yaoxue Zhang.* Preprint'23
+
 
 ## Knowledge Distillation
 ### 2024
