@@ -11,6 +11,8 @@
 <!-- ![license](https://img.shields.io/bower/l/bootstrap?style=plastic) -->
 
 </div>
+This repo includes papers about parametric knowledge in LLMs, now we have parametric knowledge detection and parametric knowledge application these two main categories!👻
+We believe that the parametric knowledge in LLMs is still a largely unexplored area, and we hope this repository will provide you with some valuable insights!😶‍🌫️
 
 # Prametric Knowledge Detection
 ## Knowledge in Transformer-based Model🧠
