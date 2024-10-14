@@ -76,6 +76,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 1. **[Mutual enhancement of large and small language models with cross-silo knowledge transfer](https://arxiv.org/abs/2312.05842)**
 
     *Yongheng Deng, Ziqing Qiao, Ju Ren, Yang Liu, Yaoxue Zhang.* Preprint'23
+
+2. **[Learning to grow pretrained models for efficient transformer training](https://arxiv.org/abs/2303.00980)**[[code](https://github.com/VITA-Group/LiGO)]
+
+    *Peihao Wang, Rameswar Panda, Lucas Torroba Hennigen, Philip Greengard, Leonid Karlinsky, Rogerio Feris, David D. Cox, Zhangyang Wang, Yoon Kim.* ICLR'23 
 ### 2021
 1. **[Weight distillation: Transferring the knowledge in neural network parameters](https://arxiv.org/abs/2009.09152)[[code](https://github.com/Lollipop321/weight-distillation)]
 
