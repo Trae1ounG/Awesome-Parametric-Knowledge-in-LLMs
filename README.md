@@ -21,6 +21,9 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 1. **[What does the knowledge neuron thesis  have to do with knowledge? ](https://arxiv.org/abs/2405.02421)**
 
     *Jingcheng Niu, Andrew Liu, Zining Zhu, Gerald Penn.*   ICLR'24(Spotlight)
+2. **[Identifying query-relevant neurons in large language models for long-form texts](https://arxiv.org/abs/2406.10868)**
+
+    *Lihu Chen, Adam Dejl, Francesca Toni.* Preprint'24
 ### 2022
 1. **[Knowledge Neurons in Pretrained Transformers](https://arxiv.org/abs/2104.08696)**[[code](https://github.comHunter-DDM/knowledge-neurons)]
 
@@ -81,10 +84,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     *Peihao Wang, Rameswar Panda, Lucas Torroba Hennigen, Philip Greengard, Leonid Karlinsky, Rogerio Feris, David D. Cox, Zhangyang Wang, Yoon Kim.* ICLR'23 
 ### 2021
-1. **[Weight distillation: Transferring the knowledge in neural network parameters](https://arxiv.org/abs/2009.09152)[[code](https://github.com/Lollipop321/weight-distillation)]
+1. **[Weight distillation: Transferring the knowledge in neural network parameters](https://arxiv.org/abs/2009.09152)**[[code](https://github.com/Lollipop321/weight-distillation)]
 
     *Ye Lin, Yanyang Li, Ziyang Wang, Bei Li, Quan Du, Tong Xiao, Jingbo Zhu.* ACL'21
-## Knowledge Distillation
+## Knowledge Distillation (Not Parametric)
 ### 2024
 1. **[PromptKD: Distilling Student-Friendly Knowledge for Generative Language Models via Prompt Tuning](https://arxiv.org/abs/2402.12842)**[[code](https://promptkd.github.io/)]
 
