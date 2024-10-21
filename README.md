@@ -46,6 +46,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 1. **[A Comprehensive Study of Knowledge Editing for Large Language Models](https://arxiv.org/abs/2401.01286)**
 
     *Ningyu Zhang, Yunzhi Yao, Bozhong Tian, Peng Wang, Shumin Deng, Mengru Wang, Zekun Xi, Shengyu Mao, Jintian Zhang, Yuansheng Ni, Siyuan Cheng, Ziwen Xu, Xin Xu, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Lei Liang, Zhiqiang Zhang, Xiaowei Zhu, Jun Zhou, Huajun Chen.* Preprint'24
+
+2. **[FAME: Towards Factual Multi-Task Model Editing](https://arxiv.org/abs/2410.10859)**[[code](https://github.com/BITHLP/FAME)]
+
+    *Li Zeng, Yingyu Shan, Zeming Liu, Jiashu Yao, Yuhang Guo.* EMNLP'24
 ### 2023
 1. **[Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/abs/2305.13172)**
 
