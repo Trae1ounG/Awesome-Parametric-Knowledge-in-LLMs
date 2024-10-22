@@ -55,6 +55,9 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     *Bozhong Tian, Xiaozhuan Liang, Siyuan Cheng, Qingbin Liu, Mengru Wang, Dianbo Sui, Xi Chen, Huajun Chen, Ningyu Zhang.* EMNLP'24 findings
 
+4. **[Understanding the Collapse of LLMs in Model Editing](https://arxiv.org/abs/2406.11263)**
+
+    *Wanli Yang, Fei Sun, Jiajun Tan, Xinyu Ma, Du Su, Dawei Yin, Huawei Shen.* EMNLP'24 findings
 ### 2023
 1. **[Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/abs/2305.13172)**
 
