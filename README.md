@@ -99,8 +99,12 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 1. **[Weight distillation: Transferring the knowledge in neural network parameters](https://arxiv.org/abs/2009.09152)**[[code](https://github.com/Lollipop321/weight-distillation)]
 
     *Ye Lin, Yanyang Li, Ziyang Wang, Bei Li, Quan Du, Tong Xiao, Jingbo Zhu.* ACL'21
-## Knowledge Distillation (Not Parametric)
+## Knowledge Distillation 
 ### 2024
-1. **[PromptKD: Distilling Student-Friendly Knowledge for Generative Language Models via Prompt Tuning](https://arxiv.org/abs/2402.12842)**[[code](https://promptkd.github.io/)]
+1. **[PromptKD: Distilling Student-Friendly Knowledge for Generative Language Models via Prompt Tuning](https://arxiv.org/abs/2402.12842)**[[code](https://promptkd.github.io/)] (Note: not parametric)
 
     *Gyeongman Kim, Doohyuk Jang, Eunho Yang.* EMNLP'24 findings
+
+2. **[From Instance Training to Instruction Learning: Task Adapters Generation from Instructions](https://arxiv.org/abs/2406.12382)**[[code](https://github.com/Xnhyacinth/TAGI/tree/master)]
+
+    *Huanxuan Liao, Yao Xu, Shizhu He, Yuanzhe Zhang, Yanchao Hao, Shengping Liu, Kang Liu, Jun Zhao.* NIPS'24
