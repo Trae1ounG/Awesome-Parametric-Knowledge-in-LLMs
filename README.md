@@ -58,6 +58,14 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 4. **[Understanding the Collapse of LLMs in Model Editing](https://arxiv.org/abs/2406.11263)**
 
     *Wanli Yang, Fei Sun, Jiajun Tan, Xinyu Ma, Du Su, Dawei Yin, Huawei Shen.* EMNLP'24 findings
+
+5. **[Is it possible to edit large language models robustly?](https://arxiv.org/pdf/2402.05827)**[[code](https://github.com/xbmxb/edit_analysis)]
+
+    *Xinbei Ma, Tianjie Ju, Jiyang Qiu, Zhuosheng Zhang, Hai Zhao, Lifeng Liu, Yulong Wang.* Preprint'24
+
+6. **[Retrieval-enhanced Knowledge Editing in Language Models for Multi-Hop Question Answering](https://arxiv.org/pdf/2403.19631)**[[code](https://github.com/sycny/RAE)]
+
+    *Yucheng Shi, Qiaoyu Tan, Xuansheng Wu, Shaochen Zhong, Kaixiong Zhou, Ninghao Liu.* CIKM'24
 ### 2023
 1. **[Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/abs/2305.13172)**
 
