@@ -95,6 +95,9 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     *Zhiqiu Xu, Yanjie Chen, Kirill Vishniakov, Yida Yin, Zhiqiang Shen, Trevor Darrell, Lingjie Liu, Zhuang Liu.* ICLR'24 **Spotlight**
 
+3. **[Cross-model Control: Improving Multiple Large Language Models in One-time Training](https://www.arxiv.org/abs/2410.17599)**[[code](https://github.com/wujwyi/CMC)]
+
+    *Jiayi Wu, Hao Sun, Hengyi Cai, Lixin Su, Shuaiqiang Wang, Dawei Yin, Xiang Li, Ming Gao.* NIPS'24
 ### 2023
 1. **[Mutual enhancement of large and small language models with cross-silo knowledge transfer](https://arxiv.org/abs/2312.05842)**
 
@@ -103,6 +106,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 2. **[Learning to grow pretrained models for efficient transformer training](https://arxiv.org/abs/2303.00980)**[[code](https://github.com/VITA-Group/LiGO)]
 
     *Peihao Wang, Rameswar Panda, Lucas Torroba Hennigen, Philip Greengard, Leonid Karlinsky, Rogerio Feris, David D. Cox, Zhangyang Wang, Yoon Kim.* ICLR'23 
+
+3. **[Retrieval-based knowledge transfer: An effective approach for extreme large language model compression](https://arxiv.org/abs/2310.15594)**
+
+    *Jiduan Liu, Jiahao Liu, Qifan Wang, Jingang Wang, Xunliang Cai, Dongyan Zhao, Ran Lucien Wang, Rui Yan.* EMNLP'23 Findings
 ### 2021
 1. **[Weight distillation: Transferring the knowledge in neural network parameters](https://arxiv.org/abs/2009.09152)**[[code](https://github.com/Lollipop321/weight-distillation)]
 
