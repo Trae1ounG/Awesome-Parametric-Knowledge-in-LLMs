@@ -66,6 +66,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 6. **[Retrieval-enhanced Knowledge Editing in Language Models for Multi-Hop Question Answering](https://arxiv.org/pdf/2403.19631)**[[code](https://github.com/sycny/RAE)]
 
     *Yucheng Shi, Qiaoyu Tan, Xuansheng Wu, Shaochen Zhong, Kaixiong Zhou, Ninghao Liu.* CIKM'24
+
+7. **[Latent paraphrasing: Perturbation on layers improves knowledge injection in language models](https://arxiv.org/abs/2411.00686)**
+
+    *Minki Kang, Sung Ju Hwang, Gibbeum Lee, Jaewoong Cho.* NIPS'24
 ### 2023
 1. **[Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/abs/2305.13172)**
 
@@ -98,6 +102,16 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 3. **[Cross-model Control: Improving Multiple Large Language Models in One-time Training](https://www.arxiv.org/abs/2410.17599)**[[code](https://github.com/wujwyi/CMC)]
 
     *Jiayi Wu, Hao Sun, Hengyi Cai, Lixin Su, Shuaiqiang Wang, Dawei Yin, Xiang Li, Ming Gao.* NIPS'24
+
+4. **[Knowledge fusion of large language models](https://arxiv.org/abs/2401.10491)**[[code](https://github.com/fanqiwan/FuseLLM)]
+
+    *Fanqi Wan, Xinting Huang, Deng Cai, Xiaojun Quan, Wei Bi, Shuming Shi.* ICLR'24
+
+5. **[Tuning language models by proxy](https://arxiv.org/abs/2401.08565)**[[code](https://github.com/alisawuffles/proxy-tuning)]
+
+    *Alisa Liu, Xiaochuang Han, Yizhong Wang, Yulia Tsvetkov, Yejin Choi, Noah A. Smith.* COLM'24
+
+
 ### 2023
 1. **[Mutual enhancement of large and small language models with cross-silo knowledge transfer](https://arxiv.org/abs/2312.05842)**
 
