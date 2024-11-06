@@ -24,6 +24,11 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 2. **[Identifying query-relevant neurons in large language models for long-form texts](https://arxiv.org/abs/2406.10868)**
 
     *Lihu Chen, Adam Dejl, Francesca Toni.* Preprint'24
+
+3. **[Revealing the parametric knowledge of language models: A unified framework for attribution methods](https://arxiv.org/abs/2404.18655)**
+
+    *Haeun Yu, Pepa Atanasova, Isabelle Augenstein.* ACL'24
+
 ### 2022
 1. **[Knowledge Neurons in Pretrained Transformers](https://arxiv.org/abs/2104.08696)**[[code](https://github.comHunter-DDM/knowledge-neurons)]
 
@@ -70,6 +75,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 7. **[Latent paraphrasing: Perturbation on layers improves knowledge injection in language models](https://arxiv.org/abs/2411.00686)**
 
     *Minki Kang, Sung Ju Hwang, Gibbeum Lee, Jaewoong Cho.* NIPS'24
+
+8. **[Learning to edit: Aligning LLMs with knowledge editing](https://arxiv.org/abs/2402.11905)**[[code](https://github.com/YJiangcm/LTE)]
+
+    *Yuxin Jiang, Yufei Wang, Chuhan Wu, Wanjun Zhong, Xingshan Zeng, Jiahui Gao, Liangyou Li, Xin Jiang, Lifeng Shang, Ruiming Tang, Qun Liu, Wei Wang.* ACL'24
 ### 2023
 1. **[Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/abs/2305.13172)**
 
