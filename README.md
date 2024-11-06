@@ -29,6 +29,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     *Haeun Yu, Pepa Atanasova, Isabelle Augenstein.* ACL'24
 
+4. **[Does knowledge localization hold true? Surprising differences between entity and relation perspectives in language models](https://arxiv.org/pdf/2409.00617)**
+
+    *Yifan Wei, Xiaoyan Yu, Yixuan Weng, Huanhuan Ma, Yuanzhe Zhang, Jun Zhao, Kang Liu.* CIKM'24
+
 ### 2022
 1. **[Knowledge Neurons in Pretrained Transformers](https://arxiv.org/abs/2104.08696)**[[code](https://github.comHunter-DDM/knowledge-neurons)]
 
