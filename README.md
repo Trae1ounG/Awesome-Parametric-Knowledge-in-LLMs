@@ -40,6 +40,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 6. **[Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/abs/2407.15017)**
 
 *Mengru Wang, Yunzhi Yao, Ziwen Xu, Shuofei Qiao, Shumin Deng, Peng Wang, Xiang Chen, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen, Ningyu Zhang.* EMNLP'24 Findings
+
+7. **[Disentangling Memory and Reasoning Ability in Large Language Models](https://arxiv.org/abs/2411.13504v2)** [[code](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning)]
+
+*Mingyu Jin, Weidi Luo, Sitao Cheng, Xinyi Wang, Wenyue Hua, Ruixiang Tang, William Yang Wang, Yongfeng Zhang.* preprint'24
 ### 2022
 1. **[Knowledge Neurons in Pretrained Transformers](https://arxiv.org/abs/2104.08696)**[[code](https://github.comHunter-DDM/knowledge-neurons)]
 
