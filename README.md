@@ -33,7 +33,7 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     *Yifan Wei, Xiaoyan Yu, Yixuan Weng, Huanhuan Ma, Yuanzhe Zhang, Jun Zhao, Kang Liu.* CIKM'24
 
-5. **[Separating tongue from thought: Activation patching reveals language-agnostic concept representations in transformers](https://arxiv.org/abs/2411.08745)** [[code](https://github.com/Butanium/llm-lang-agnostic)]
+5. **[Separating tongue from thought: Activation patching reveals language-agnostic concept representations in transformers](https://arxiv.org/abs/2411.08745)** [![github repo stars](https://img.shields.io/github/stars/bithlp/fame](https://github.com/Butanium/llm-lang-agnostic)]
 
 *Clément Dumas, Chris Wendler, Veniamin Veselovsky, Giovanni Monea, Robert West.* ICLR'24 Spotlight
 
@@ -41,11 +41,11 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
 *Mengru Wang, Yunzhi Yao, Ziwen Xu, Shuofei Qiao, Shumin Deng, Peng Wang, Xiang Chen, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen, Ningyu Zhang.* EMNLP'24 Findings
 
-7. **[Disentangling Memory and Reasoning Ability in Large Language Models](https://arxiv.org/abs/2411.13504v2)** [[code](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning)]
+7. **[Disentangling Memory and Reasoning Ability in Large Language Models](https://arxiv.org/abs/2411.13504v2)** [![github repo stars](https://img.shields.io/github/stars/bithlp/fame](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning)]
 
 *Mingyu Jin, Weidi Luo, Sitao Cheng, Xinyi Wang, Wenyue Hua, Ruixiang Tang, William Yang Wang, Yongfeng Zhang.* preprint'24
 ### 2022
-1. **[Knowledge Neurons in Pretrained Transformers](https://arxiv.org/abs/2104.08696)**[[code](https://github.comHunter-DDM/knowledge-neurons)]
+1. **[Knowledge Neurons in Pretrained Transformers](https://arxiv.org/abs/2104.08696)**[![github repo stars](https://img.shields.io/github/stars/bithlp/fame](https://github.comHunter-DDM/knowledge-neurons)]
 
     *Damai Dai, Li Dong, Yaru Hao, Zhifang Sui, Baobao Chang, Furu Wei.* ACL'22
 ### 2021
@@ -67,11 +67,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     *Ningyu Zhang, Yunzhi Yao, Bozhong Tian, Peng Wang, Shumin Deng, Mengru Wang, Zekun Xi, Shengyu Mao, Jintian Zhang, Yuansheng Ni, Siyuan Cheng, Ziwen Xu, Xin Xu, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Lei Liang, Zhiqiang Zhang, Xiaowei Zhu, Jun Zhou, Huajun Chen.* Preprint'24
 
-2. **[FAME: Towards Factual Multi-Task Model Editing](https://arxiv.org/abs/2410.10859)**[[code](https://github.com/BITHLP/FAME)]
-
+2. **[FAME: Towards Factual Multi-Task Model Editing](https://arxiv.org/abs/2410.10859)**[![GitHub Repo stars](https://img.shields.io/github/stars/BITHLP/FAME](https://github.com/BITHLP/FAME)
     *Li Zeng, Yingyu Shan, Zeming Liu, Jiashu Yao, Yuhang Guo.* EMNLP'24
 
-3. **[To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2407.01920)**[[code](https://github.com/zjunlp/KnowUnDo)]
+3. **[To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2407.01920)**[![github repo stars](https://img.shields.io/github/stars/zjunlp/KnowUnDo](https://github.com/zjunlp/KnowUnDo)
 
     *Bozhong Tian, Xiaozhuan Liang, Siyuan Cheng, Qingbin Liu, Mengru Wang, Dianbo Sui, Xi Chen, Huajun Chen, Ningyu Zhang.* EMNLP'24 findings
 
@@ -79,11 +78,11 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     *Wanli Yang, Fei Sun, Jiajun Tan, Xinyu Ma, Du Su, Dawei Yin, Huawei Shen.* EMNLP'24 findings
 
-5. **[Is it possible to edit large language models robustly?](https://arxiv.org/pdf/2402.05827)**[[code](https://github.com/xbmxb/edit_analysis)]
+5. **[Is it possible to edit large language models robustly?](https://arxiv.org/pdf/2402.05827)**[![github repo stars](https://img.shields.io/github/stars/xbmxb/edit_analysis](https://github.com/xbmxb/edit_analysis)
 
     *Xinbei Ma, Tianjie Ju, Jiyang Qiu, Zhuosheng Zhang, Hai Zhao, Lifeng Liu, Yulong Wang.* Preprint'24
 
-6. **[Retrieval-enhanced Knowledge Editing in Language Models for Multi-Hop Question Answering](https://arxiv.org/pdf/2403.19631)**[[code](https://github.com/sycny/RAE)]
+6. **[Retrieval-enhanced Knowledge Editing in Language Models for Multi-Hop Question Answering](https://arxiv.org/pdf/2403.19631)**[![github repo stars](https://img.shields.io/github/stars/sycny/RAE](https://github.com/sycny/RAE)
 
     *Yucheng Shi, Qiaoyu Tan, Xuansheng Wu, Shaochen Zhong, Kaixiong Zhou, Ninghao Liu.* CIKM'24
 
@@ -91,7 +90,7 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     *Minki Kang, Sung Ju Hwang, Gibbeum Lee, Jaewoong Cho.* NIPS'24
 
-8. **[Learning to edit: Aligning LLMs with knowledge editing](https://arxiv.org/abs/2402.11905)**[[code](https://github.com/YJiangcm/LTE)]
+8. **[Learning to edit: Aligning LLMs with knowledge editing](https://arxiv.org/abs/2402.11905)**[![github repo stars](https://img.shields.io/github/stars/YJiangcm/LTE](https://github.com/YJiangcm/LTE)
 
     *Yuxin Jiang, Yufei Wang, Chuhan Wu, Wanjun Zhong, Xingshan Zeng, Jiahui Gao, Liangyou Li, Xin Jiang, Lifeng Shang, Ruiming Tang, Qun Liu, Wei Wang.* ACL'24
 ### 2023
@@ -119,19 +118,19 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
  *Ming Zhong, Chenxin An, Weizhu Chen, Jiawei Han, Pengcheng He.* ICLR'24
 
-2. **[Initializing models with larger ones](https://arxiv.org/abs/2311.18823)**[[code](https://github.com/OscarXZQ/weight-selection)]
+2. **[Initializing models with larger ones](https://arxiv.org/abs/2311.18823)**[![github repo stars](https://img.shields.io/github/stars/OscarXZQ/weight-selection](https://github.com/OscarXZQ/weight-selection)
 
     *Zhiqiu Xu, Yanjie Chen, Kirill Vishniakov, Yida Yin, Zhiqiang Shen, Trevor Darrell, Lingjie Liu, Zhuang Liu.* ICLR'24 **Spotlight**
 
-3. **[Cross-model Control: Improving Multiple Large Language Models in One-time Training](https://www.arxiv.org/abs/2410.17599)**[[code](https://github.com/wujwyi/CMC)]
+3. **[Cross-model Control: Improving Multiple Large Language Models in One-time Training](https://www.arxiv.org/abs/2410.17599)**[![github repo stars](https://img.shields.io/github/stars/wujwyi/CMC](https://github.com/wujwyi/CMC)
 
     *Jiayi Wu, Hao Sun, Hengyi Cai, Lixin Su, Shuaiqiang Wang, Dawei Yin, Xiang Li, Ming Gao.* NIPS'24
 
-4. **[Knowledge fusion of large language models](https://arxiv.org/abs/2401.10491)**[[code](https://github.com/fanqiwan/FuseLLM)]
+4. **[Knowledge fusion of large language models](https://arxiv.org/abs/2401.10491)**[![github repo stars](https://img.shields.io/github/stars/fanqiwan/FuseLLM](https://github.com/fanqiwan/FuseLLM)
 
     *Fanqi Wan, Xinting Huang, Deng Cai, Xiaojun Quan, Wei Bi, Shuming Shi.* ICLR'24
 
-5. **[Tuning language models by proxy](https://arxiv.org/abs/2401.08565)**[[code](https://github.com/alisawuffles/proxy-tuning)]
+5. **[Tuning language models by proxy](https://arxiv.org/abs/2401.08565)**[![github repo stars](https://img.shields.io/github/stars/alisawuffles/proxy-tunin](https://github.com/alisawuffles/proxy-tuning)
 
     *Alisa Liu, Xiaochuang Han, Yizhong Wang, Yulia Tsvetkov, Yejin Choi, Noah A. Smith.* COLM'24
 
@@ -141,7 +140,7 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     *Yongheng Deng, Ziqing Qiao, Ju Ren, Yang Liu, Yaoxue Zhang.* Preprint'23
 
-2. **[Learning to grow pretrained models for efficient transformer training](https://arxiv.org/abs/2303.00980)**[[code](https://github.com/VITA-Group/LiGO)]
+2. **[Learning to grow pretrained models for efficient transformer training](https://arxiv.org/abs/2303.00980)**[![github repo stars](https://img.shields.io/github/stars/VITA-Group/LiGO](https://github.com/VITA-Group/LiGO)
 
     *Peihao Wang, Rameswar Panda, Lucas Torroba Hennigen, Philip Greengard, Leonid Karlinsky, Rogerio Feris, David D. Cox, Zhangyang Wang, Yoon Kim.* ICLR'23 
 
@@ -149,15 +148,22 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     *Jiduan Liu, Jiahao Liu, Qifan Wang, Jingang Wang, Xunliang Cai, Dongyan Zhao, Ran Lucien Wang, Rui Yan.* EMNLP'23 Findings
 ### 2021
-1. **[Weight distillation: Transferring the knowledge in neural network parameters](https://arxiv.org/abs/2009.09152)**[[code](https://github.com/Lollipop321/weight-distillation)]
+1. **[Weight distillation: Transferring the knowledge in neural network parameters](https://arxiv.org/abs/2009.09152)**[![github repo stars](https://img.shields.io/github/stars/Lollipop321/weight-distillation](https://github.com/Lollipop321/weight-distillation)
 
     *Ye Lin, Yanyang Li, Ziyang Wang, Bei Li, Quan Du, Tong Xiao, Jingbo Zhu.* ACL'21
+
+## Activation Steering
+## 2024
+1. **[Multi-property Steering of Large Language Models with Dynamic Activation Composition](https://arxiv.org/abs/2406.17563)** [![github repo stars](https://img.shields.io/github/stars/DanielSc4/Dynamic-Activation-Composition](https://github.com/DanielSc4/Dynamic-Activation-Composition)
+
+*Daniel Scalena, Gabriele Sarti, Malvina Nissim.* ACL'24 BlackboxNLP Workshop
+
 ## Knowledge Distillation 
 ### 2024
-1. **[PromptKD: Distilling Student-Friendly Knowledge for Generative Language Models via Prompt Tuning](https://arxiv.org/abs/2402.12842)**[[code](https://promptkd.github.io/)] (Note: not parametric)
+1. **[PromptKD: Distilling Student-Friendly Knowledge for Generative Language Models via Prompt Tuning](https://arxiv.org/abs/2402.12842)**[[code]](https://promptkd.github.io/) (Note: not parametric)
 
     *Gyeongman Kim, Doohyuk Jang, Eunho Yang.* EMNLP'24 findings
 
-2. **[From Instance Training to Instruction Learning: Task Adapters Generation from Instructions](https://arxiv.org/abs/2406.12382)**[[code](https://github.com/Xnhyacinth/TAGI/tree/master)]
+2. **[From Instance Training to Instruction Learning: Task Adapters Generation from Instructions](https://arxiv.org/abs/2406.12382)**[![github repo stars](https://img.shields.io/github/stars/Xnhyacinth/TAGI](https://github.com/Xnhyacinth/TAGI/)
 
     *Huanxuan Liao, Yao Xu, Shizhu He, Yuanzhe Zhang, Yanchao Hao, Shengping Liu, Kang Liu, Jun Zhao.* NIPS'24
