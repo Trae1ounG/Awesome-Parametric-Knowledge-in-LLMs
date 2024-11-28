@@ -168,7 +168,7 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 *Alexander Matt Turner, Lisa Thiergart, Gavin Leech, David Udell, Juan J. Vazquez, Ulisse Mini, Monte MacDiarmid.* Preprint'23
 ## Knowledge Distillation 
 ### 2024
-1. **[PromptKD: Distilling Student-Friendly Knowledge for Generative Language Models via Prompt Tuning](https://arxiv.org/abs/2402.12842)**[[code]](https://promptkd.github.io/) (Note: not parametric)
+1. **[PromptKD: Distilling Student-Friendly Knowledge for Generative Language Models via Prompt Tuning](https://arxiv.org/abs/2402.12842)**[![github repo stars](https://img.shields.io/github/stars/gmkim-ai/PromptKD)](https://github.com/gmkim-ai/PromptKD)(Note: not parametric)
 
     *Gyeongman Kim, Doohyuk Jang, Eunho Yang.* EMNLP'24 findings
 
