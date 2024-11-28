@@ -93,6 +93,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 8. **[Learning to edit: Aligning LLMs with knowledge editing](https://arxiv.org/abs/2402.11905)**[![github repo stars](https://img.shields.io/github/stars/YJiangcm/LTE)](https://github.com/YJiangcm/LTE)
 
     *Yuxin Jiang, Yufei Wang, Chuhan Wu, Wanjun Zhong, Xingshan Zeng, Jiahui Gao, Liangyou Li, Xin Jiang, Lifeng Shang, Ruiming Tang, Qun Liu, Wei Wang.* ACL'24
+
+9. **[Inspecting and Editing Knowledge Representations in Language Models](https://arxiv.org/abs/2304.00740)**[![github repo stars](https://img.shields.io/github/stars/evandez/REMEDI)](https://github.com/evandez/REMEDI)
+
+*Evan Hernandez, Belinda Z. Li, Jacob Andreas.* COLM'24
 ### 2023
 1. **[Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/abs/2305.13172)**
 
