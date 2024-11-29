@@ -48,6 +48,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 8. **[From yes-men to truth-tellers Addressing sycophancy in large language models with pinpoint tuning](https://arxiv.org/pdf/2409.01658v2)**
 
 *Wei Chen, Zhen Huang, Liang Xie, Binbin Lin, Houqiang Li, Le Lu, Xinmei Tian, Deng Cai, Yonggang Zhang, Wenxiao Wang, Xu Shen, Jieping Ye.* ICML'24
+
+9. **[Linguistic collapse: Neural collapse in (large) language models](https://arxiv.org/abs/2405.17767)**[![github repo stars](https://img.shields.io/github/stars/rhubarbwu/linguistic-collapse)]( https://github.com/rhubarbwu/linguistic-collapse)
+
+*Robert Wu, Vardan Papyan.* NIPS'24
 ### 2022
 1. **[Knowledge Neurons in Pretrained Transformers](https://arxiv.org/abs/2104.08696)**[![github repo stars](https://img.shields.io/github/stars/Hunter-DDM/knowledge-neurons)](https://github.com/Hunter-DDM/knowledge-neurons)
 
@@ -179,3 +183,7 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 2. **[From Instance Training to Instruction Learning: Task Adapters Generation from Instructions](https://arxiv.org/abs/2406.12382)**[![github repo stars](https://img.shields.io/github/stars/Xnhyacinth/TAGI)](https://github.com/Xnhyacinth/TAGI/)
 
     *Huanxuan Liao, Yao Xu, Shizhu He, Yuanzhe Zhang, Yanchao Hao, Shengping Liu, Kang Liu, Jun Zhao.* NIPS'24
+
+3. **[When babies teach babies: Can student knowledge sharing outperform teacher-guided distillation on small datasets?](https://arxiv.org/abs/2411.16487v1)**
+
+*Srikrishna Iyer.* EMNLP'24  CoNLL Workshop
