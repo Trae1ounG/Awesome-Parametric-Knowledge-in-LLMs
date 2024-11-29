@@ -44,6 +44,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 7. **[Disentangling Memory and Reasoning Ability in Large Language Models](https://arxiv.org/abs/2411.13504v2)** [![github repo stars](https://img.shields.io/github/stars/MingyuJ666/Disentangling-Memory-and-Reasoning)](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning)
 
 *Mingyu Jin, Weidi Luo, Sitao Cheng, Xinyi Wang, Wenyue Hua, Ruixiang Tang, William Yang Wang, Yongfeng Zhang.* preprint'24
+
+8. **[From yes-men to truth-tellers Addressing sycophancy in large language models with pinpoint tuning](https://arxiv.org/pdf/2409.01658v2)**
+
+*Wei Chen, Zhen Huang, Liang Xie, Binbin Lin, Houqiang Li, Le Lu, Xinmei Tian, Deng Cai, Yonggang Zhang, Wenxiao Wang, Xu Shen, Jieping Ye.* ICML'24
 ### 2022
 1. **[Knowledge Neurons in Pretrained Transformers](https://arxiv.org/abs/2104.08696)**[![github repo stars](https://img.shields.io/github/stars/Hunter-DDM/knowledge-neurons)](https://github.com/Hunter-DDM/knowledge-neurons)
 
