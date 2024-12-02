@@ -16,58 +16,67 @@ This repo includes papers about parametric knowledge in LLMs, now we have parame
 We believe that the parametric knowledge in LLMs is still a largely unexplored area, and we hope this repository will provide you with some valuable insights!😶‍🌫️
 
 # Prametric Knowledge Detection
-## Knowledge in Transformer-based Model🧠
+## Knowledge in Transformer-based Model——Analysis🧠
 ### 2024
 1. **[What does the knowledge neuron thesis  have to do with knowledge? ](https://arxiv.org/abs/2405.02421)**
 
     *Jingcheng Niu, Andrew Liu, Zining Zhu, Gerald Penn.*   ICLR'24(Spotlight)
-2. **[Identifying query-relevant neurons in large language models for long-form texts](https://arxiv.org/abs/2406.10868)**
 
-    *Lihu Chen, Adam Dejl, Francesca Toni.* Preprint'24
-
-3. **[Revealing the parametric knowledge of language models: A unified framework for attribution methods](https://arxiv.org/abs/2404.18655)**
-
-    *Haeun Yu, Pepa Atanasova, Isabelle Augenstein.* ACL'24
-
-4. **[Does knowledge localization hold true? Surprising differences between entity and relation perspectives in language models](https://arxiv.org/pdf/2409.00617)**
-
-    *Yifan Wei, Xiaoyan Yu, Yixuan Weng, Huanhuan Ma, Yuanzhe Zhang, Jun Zhao, Kang Liu.* CIKM'24
-
-5. **[Separating tongue from thought: Activation patching reveals language-agnostic concept representations in transformers](https://arxiv.org/abs/2411.08745)** [![github repo stars](https://img.shields.io/github/stars/Butanium/llm-lang-agnostic)](https://github.com/Butanium/llm-lang-agnostic)
-
-*Clément Dumas, Chris Wendler, Veniamin Veselovsky, Giovanni Monea, Robert West.* ICLR'24 Spotlight
-
-6. **[Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/abs/2407.15017)**
+2. **[Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/abs/2407.15017)**
 
 *Mengru Wang, Yunzhi Yao, Ziwen Xu, Shuofei Qiao, Shumin Deng, Peng Wang, Xiang Chen, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen, Ningyu Zhang.* EMNLP'24 Findings
 
-7. **[Disentangling Memory and Reasoning Ability in Large Language Models](https://arxiv.org/abs/2411.13504v2)** [![github repo stars](https://img.shields.io/github/stars/MingyuJ666/Disentangling-Memory-and-Reasoning)](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning)
+3. **[Disentangling Memory and Reasoning Ability in Large Language Models](https://arxiv.org/abs/2411.13504v2)** [![github repo stars](https://img.shields.io/github/stars/MingyuJ666/Disentangling-Memory-and-Reasoning)](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning)
 
 *Mingyu Jin, Weidi Luo, Sitao Cheng, Xinyi Wang, Wenyue Hua, Ruixiang Tang, William Yang Wang, Yongfeng Zhang.* preprint'24
-
-8. **[From yes-men to truth-tellers Addressing sycophancy in large language models with pinpoint tuning](https://arxiv.org/pdf/2409.01658v2)**
-
-*Wei Chen, Zhen Huang, Liang Xie, Binbin Lin, Houqiang Li, Le Lu, Xinmei Tian, Deng Cai, Yonggang Zhang, Wenxiao Wang, Xu Shen, Jieping Ye.* ICML'24
-
-9. **[Linguistic collapse: Neural collapse in (large) language models](https://arxiv.org/abs/2405.17767)**[![github repo stars](https://img.shields.io/github/stars/rhubarbwu/linguistic-collapse)]( https://github.com/rhubarbwu/linguistic-collapse)
-
-*Robert Wu, Vardan Papyan.* NIPS'24
-### 2022
-1. **[Knowledge Neurons in Pretrained Transformers](https://arxiv.org/abs/2104.08696)**[![github repo stars](https://img.shields.io/github/stars/Hunter-DDM/knowledge-neurons)](https://github.com/Hunter-DDM/knowledge-neurons)
-
-    *Damai Dai, Li Dong, Yaru Hao, Zhifang Sui, Baobao Chang, Furu Wei.* ACL'22
 ### 2021
 1. **[Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913)** 
 
     *Mor Geva, Roei Schuster, Jonathan Berant, Omer Levy.* EMNLP'21
-## Different Type Neurons in LLMs👀 
+## Knowledge in Transformer-based Model——Causal Tracing🦾
+1. **[Does knowledge localization hold true? Surprising differences between entity and relation perspectives in language models](https://arxiv.org/pdf/2409.00617)**
+
+    *Yifan Wei, Xiaoyan Yu, Yixuan Weng, Huanhuan Ma, Yuanzhe Zhang, Jun Zhao, Kang Liu.* CIKM'24
 ### 2024
-1. **[Language-specific neurons: The key to multilingual capabilities in large language models.](https://arxiv.org/abs/2402.16438)**
+## Knowledge in Transformer-based Model——Gradient Attribution👀
 
-    *Tianyi Tang, Wenyang Luo, Haoyang Huang, Dongdong Zhang, Xiaolei Wang, Xin Zhao, Furu Wei, Ji-Rong Wen.* ACL'24
-2. **[Does Large Language Model contain Task-Specific Neurons.]**
+1. **[Identifying query-relevant neurons in large language models for long-form texts](https://arxiv.org/abs/2406.10868)**
 
-    *Waiting* EMNLP'24
+    *Lihu Chen, Adam Dejl, Francesca Toni.* Preprint'24
+
+2. **[Revealing the parametric knowledge of language models: A unified framework for attribution methods](https://arxiv.org/abs/2404.18655)**
+
+    *Haeun Yu, Pepa Atanasova, Isabelle Augenstein.* ACL'24
+3. **[Does Large Language Model contain Task-Specific Neurons.](https://aclanthology.org/2024.emnlp-main.403/)**
+
+    *Ran Song, Shizhu He, Shuting Jiang, Yantuan Xian, Shengxiang Gao, Kang Liu, and Zhengtao Yu.* EMNLP'24
+### 2022
+1. **[Knowledge Neurons in Pretrained Transformers](https://arxiv.org/abs/2104.08696)**[![github repo stars](https://img.shields.io/github/stars/Hunter-DDM/knowledge-neurons)](https://github.com/Hunter-DDM/knowledge-neurons)
+
+    *Damai Dai, Li Dong, Yaru Hao, Zhifang Sui, Baobao Chang, Furu Wei.* ACL'22
+
+## Knowledge in Transformer-based Model——Activation🫀
+### 2024
+1. **[Separating tongue from thought: Activation patching reveals language-agnostic concept representations in transformers](https://arxiv.org/abs/2411.08745)** [![github repo stars](https://img.shields.io/github/stars/Butanium/llm-lang-agnostic)](https://github.com/Butanium/llm-lang-agnostic)
+
+*Clément Dumas, Chris Wendler, Veniamin Veselovsky, Giovanni Monea, Robert West.* ICLR'24 Spotlight
+
+2. **[From yes-men to truth-tellers Addressing sycophancy in large language models with pinpoint tuning](https://arxiv.org/pdf/2409.01658v2)**
+
+*Wei Chen, Zhen Huang, Liang Xie, Binbin Lin, Houqiang Li, Le Lu, Xinmei Tian, Deng Cai, Yonggang Zhang, Wenxiao Wang, Xu Shen, Jieping Ye.* ICML'24
+
+3. **[Language-specific neurons: The key to multilingual capabilities in large language models.](https://arxiv.org/abs/2402.16438)**
+
+*Tianyi Tang, Wenyang Luo, Haoyang Huang, Dongdong Zhang, Xiaolei Wang, Xin Zhao, Furu Wei, Ji-Rong Wen.* ACL'24
+
+
+wait **[Linguistic collapse: Neural collapse in (large) language models](https://arxiv.org/abs/2405.17767)**[![github repo stars](https://img.shields.io/github/stars/rhubarbwu/linguistic-collapse)]( https://github.com/rhubarbwu/linguistic-collapse)
+
+*Robert Wu, Vardan Papyan.* NIPS'24
+
+
+
+
 # Parametric Knowledge Application
 ## Knowledge Editing 🧑‍⚕️
 ### 2024
