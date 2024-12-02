@@ -37,6 +37,11 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 1. **[Does knowledge localization hold true? Surprising differences between entity and relation perspectives in language models](https://arxiv.org/pdf/2409.00617)**
 
     *Yifan Wei, Xiaoyan Yu, Yixuan Weng, Huanhuan Ma, Yuanzhe Zhang, Jun Zhao, Kang Liu.* CIKM'24
+
+### 2022
+1. **[Locating and Editing Factual Associations in GPT](https://arxiv.org/abs/2202.05262)**
+
+    *Kevin Meng, David Bau, Alex Andonian, Yonatan Belinkov.* NIPS'22
 ### 2024
 ## Knowledge in Transformer-based Model——Gradient Attribution👀
 
@@ -59,7 +64,7 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 ### 2024
 1. **[Separating tongue from thought: Activation patching reveals language-agnostic concept representations in transformers](https://arxiv.org/abs/2411.08745)** [![github repo stars](https://img.shields.io/github/stars/Butanium/llm-lang-agnostic)](https://github.com/Butanium/llm-lang-agnostic)
 
-*Clément Dumas, Chris Wendler, Veniamin Veselovsky, Giovanni Monea, Robert West.* ICLR'24 Spotlight
+    *Clément Dumas, Chris Wendler, Veniamin Veselovsky, Giovanni Monea, Robert West.* ICLR'24 Spotlight
 
 2. **[From yes-men to truth-tellers Addressing sycophancy in large language models with pinpoint tuning](https://arxiv.org/pdf/2409.01658v2)**
 
@@ -67,9 +72,16 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
 3. **[Language-specific neurons: The key to multilingual capabilities in large language models.](https://arxiv.org/abs/2402.16438)**
 
-*Tianyi Tang, Wenyang Luo, Haoyang Huang, Dongdong Zhang, Xiaolei Wang, Xin Zhao, Furu Wei, Ji-Rong Wen.* ACL'24
+    *Tianyi Tang, Wenyang Luo, Haoyang Huang, Dongdong Zhang, Xiaolei Wang, Xin Zhao, Furu Wei, Ji-Rong Wen.* ACL'24
 
+4. **[Multi-property Steering of Large Language Models with Dynamic Activation Composition](https://arxiv.org/abs/2406.17563)** [![github repo stars](https://img.shields.io/github/stars/DanielSc4/Dynamic-Activation-Composition)](https://github.com/DanielSc4/Dynamic-Activation-Composition)
 
+    *Daniel Scalena, Gabriele Sarti, Malvina Nissim.* ACL'24 BlackboxNLP Workshop
+
+## 2023
+1. **[Activation Addition: Steering Language Models Without Optimization](https://arxiv.org/abs/2308.10248v4)**
+
+    *Alexander Matt Turner, Lisa Thiergart, Gavin Leech, David Udell, Juan J. Vazquez, Ulisse Mini, Monte MacDiarmid.* Preprint'23
 wait **[Linguistic collapse: Neural collapse in (large) language models](https://arxiv.org/abs/2405.17767)**[![github repo stars](https://img.shields.io/github/stars/rhubarbwu/linguistic-collapse)]( https://github.com/rhubarbwu/linguistic-collapse)
 
 *Robert Wu, Vardan Papyan.* NIPS'24
@@ -113,7 +125,7 @@ wait **[Linguistic collapse: Neural collapse in (large) language models](https:/
 
 9. **[Inspecting and Editing Knowledge Representations in Language Models](https://arxiv.org/abs/2304.00740)**[![github repo stars](https://img.shields.io/github/stars/evandez/REMEDI)](https://github.com/evandez/REMEDI)
 
-*Evan Hernandez, Belinda Z. Li, Jacob Andreas.* COLM'24
+    *Evan Hernandez, Belinda Z. Li, Jacob Andreas.* COLM'24
 ### 2023
 1. **[Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/abs/2305.13172)**
 
