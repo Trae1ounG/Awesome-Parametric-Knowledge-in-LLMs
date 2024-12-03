@@ -24,11 +24,16 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
 2. **[Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/abs/2407.15017)**
 
-*Mengru Wang, Yunzhi Yao, Ziwen Xu, Shuofei Qiao, Shumin Deng, Peng Wang, Xiang Chen, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen, Ningyu Zhang.* EMNLP'24 Findings
+    *Mengru Wang, Yunzhi Yao, Ziwen Xu, Shuofei Qiao, Shumin Deng, Peng Wang, Xiang Chen, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen, Ningyu Zhang.* EMNLP'24 Findings
 
 3. **[Disentangling Memory and Reasoning Ability in Large Language Models](https://arxiv.org/abs/2411.13504v2)** [![github repo stars](https://img.shields.io/github/stars/MingyuJ666/Disentangling-Memory-and-Reasoning)](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning)
 
-*Mingyu Jin, Weidi Luo, Sitao Cheng, Xinyi Wang, Wenyue Hua, Ruixiang Tang, William Yang Wang, Yongfeng Zhang.* preprint'24
+    *Mingyu Jin, Weidi Luo, Sitao Cheng, Xinyi Wang, Wenyue Hua, Ruixiang Tang, William Yang Wang, Yongfeng Zhang.* preprint'24
+
+4. **[Linguistic collapse: Neural collapse in (large) language models](https://arxiv.org/abs/2405.17767)**[![github repo stars](https://img.shields.io/github/stars/rhubarbwu/linguistic-collapse)]( https://github.com/rhubarbwu/linguistic-collapse)
+
+*Robert Wu, Vardan Papyan.* NIPS'24
+
 ### 2021
 1. **[Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913)** 
 
@@ -68,7 +73,7 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
 2. **[From yes-men to truth-tellers Addressing sycophancy in large language models with pinpoint tuning](https://arxiv.org/pdf/2409.01658v2)**
 
-*Wei Chen, Zhen Huang, Liang Xie, Binbin Lin, Houqiang Li, Le Lu, Xinmei Tian, Deng Cai, Yonggang Zhang, Wenxiao Wang, Xu Shen, Jieping Ye.* ICML'24
+    *Wei Chen, Zhen Huang, Liang Xie, Binbin Lin, Houqiang Li, Le Lu, Xinmei Tian, Deng Cai, Yonggang Zhang, Wenxiao Wang, Xu Shen, Jieping Ye.* ICML'24
 
 3. **[Language-specific neurons: The key to multilingual capabilities in large language models.](https://arxiv.org/abs/2402.16438)**
 
@@ -82,9 +87,7 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 1. **[Activation Addition: Steering Language Models Without Optimization](https://arxiv.org/abs/2308.10248v4)**
 
     *Alexander Matt Turner, Lisa Thiergart, Gavin Leech, David Udell, Juan J. Vazquez, Ulisse Mini, Monte MacDiarmid.* Preprint'23
-wait **[Linguistic collapse: Neural collapse in (large) language models](https://arxiv.org/abs/2405.17767)**[![github repo stars](https://img.shields.io/github/stars/rhubarbwu/linguistic-collapse)]( https://github.com/rhubarbwu/linguistic-collapse)
 
-*Robert Wu, Vardan Papyan.* NIPS'24
 
 
 
@@ -126,6 +129,10 @@ wait **[Linguistic collapse: Neural collapse in (large) language models](https:/
 9. **[Inspecting and Editing Knowledge Representations in Language Models](https://arxiv.org/abs/2304.00740)**[![github repo stars](https://img.shields.io/github/stars/evandez/REMEDI)](https://github.com/evandez/REMEDI)
 
     *Evan Hernandez, Belinda Z. Li, Jacob Andreas.* COLM'24
+
+10. **[Forgetting before learning: Utilizing parametric arithmetic for knowledge updating in large language models](https://arxiv.org/abs/2311.08011)**
+
+    *Shiwen Ni, Dingwei Chen, Chengming Li, Xiping Hu, Ruifeng Xu, Min Yang.* ACL'24
 ### 2023
 1. **[Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/abs/2305.13172)**
 
@@ -207,4 +214,13 @@ wait **[Linguistic collapse: Neural collapse in (large) language models](https:/
 
 3. **[When babies teach babies: Can student knowledge sharing outperform teacher-guided distillation on small datasets?](https://arxiv.org/abs/2411.16487v1)**
 
-*Srikrishna Iyer.* EMNLP'24  CoNLL Workshop
+    *Srikrishna Iyer.* EMNLP'24  CoNLL Workshop
+
+## Pramatric Quantization
+
+### 2024
+
+1. **[OneBit: Towards extremely low-bit large language models](https://arxiv.org/abs/2402.11295)** [![github repo stars](https://img.shields.io/github/stars/xuyuzhuang11/OneBit)]( https://github.com/xuyuzhuang11/OneBit)
+
+
+    *Yuzhuang Xu, Xu Han, Zonghan Yang, Shuo Wang, Qingfu Zhu, Zhiyuan Liu, Weidong Liu, Wanxiang Che.* NIPS'24
