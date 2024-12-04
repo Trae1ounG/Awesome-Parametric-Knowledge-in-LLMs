@@ -32,8 +32,15 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
 4. **[Linguistic collapse: Neural collapse in (large) language models](https://arxiv.org/abs/2405.17767)**[![github repo stars](https://img.shields.io/github/stars/rhubarbwu/linguistic-collapse)]( https://github.com/rhubarbwu/linguistic-collapse)
 
-*Robert Wu, Vardan Papyan.* NIPS'24
+    *Robert Wu, Vardan Papyan.* NIPS'24
 
+5. **[Understanding the Interplay between Parametric and Contextual Knowledge for Large Language Models](https://arxiv.org/abs/2410.08414)**[![github repo stars](https://img.shields.io/github/stars/sitaocheng/Knowledge_Interplay)](https://github.com/sitaocheng/Knowledge_Interplay)
+
+    *Sitao Cheng, Liangming Pan, Xunjian Yin, Xinyi Wang, William Yang Wang.* Preprint'24
+
+6. **[Evaluating the External and Parametric Knowledge Fusion of Large Language Models](https://arxiv.org/abs/2405.19010)**
+
+    *Hao Zhang, Yuyang Zhang, Xiaoguang Li, Wenxuan Shi, Haonan Xu, Huanshuo Liu, Yasheng Wang, Lifeng Shang, Qun Liu, Yong Liu, Ruiming Tang.* Preprint'24 
 ### 2021
 1. **[Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913)** 
 
