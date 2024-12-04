@@ -41,6 +41,14 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 6. **[Evaluating the External and Parametric Knowledge Fusion of Large Language Models](https://arxiv.org/abs/2405.19010)**
 
     *Hao Zhang, Yuyang Zhang, Xiaoguang Li, Wenxuan Shi, Haonan Xu, Huanshuo Liu, Yasheng Wang, Lifeng Shang, Qun Liu, Yong Liu, Ruiming Tang.* Preprint'24 
+
+7. **[Adaptive Chameleon or Stubborn Sloth: Revealing the Behavior of Large Language Models in Knowledge Conflicts](https://arxiv.org/abs/2305.13300)**[![github repo stars](https://img.shields.io/github/stars/OSU-NLP-Group/LLM-Knowledge-Conflict)](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)
+
+    *Jian Xie, Kai Zhang, Jiangjie Chen, Renze Lou, Yu Su.* ICLR'24 Spotlight
+
+8. **[Knowledge entropy decay during language model pretraining hinders new knowledge acquisition](https://arxiv.org/abs/2410.01380)**
+
+    *Jiyeon Kim, Hyunji Lee, Hyowon Cho, Joel Jang, Hyeonbin Hwang, Seungpil Won, Youbin Ahn, Dohaeng Lee, Minjoon Seo.* Preprint'24
 ### 2021
 1. **[Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913)** 
 
