@@ -227,6 +227,6 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
 ### 2023
 
-1. **[The cost of compression: Investigating the impact of compression on parametric knowledge in language models](https://arxiv.org/abs/2312.00960)** [![github repo stars](https://img.shields.io/github/stars/NamburiSrinath/LLMCompressiont)](https://github.com/NamburiSrinath/LLMCompression)
+1. **[The cost of compression: Investigating the impact of compression on parametric knowledge in language models](https://arxiv.org/abs/2312.00960)** [![github repo stars](https://img.shields.io/github/stars/NamburiSrinath/LLMCompression)](https://github.com/NamburiSrinath/LLMCompression)
 
     *Satya Sai Srinath Namburi, Makesh Sreedhar, Srinath Srinivasan, Frederic Sala.* EMNLP'23 findings
