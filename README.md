@@ -49,6 +49,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 8. **[Knowledge entropy decay during language model pretraining hinders new knowledge acquisition](https://arxiv.org/abs/2410.01380)**
 
     *Jiyeon Kim, Hyunji Lee, Hyowon Cho, Joel Jang, Hyeonbin Hwang, Seungpil Won, Youbin Ahn, Dohaeng Lee, Minjoon Seo.* Preprint'24
+
+9. **[When Context Leads but Parametric Memory Follows in Large Language Models](https://arxiv.org/abs/2409.08435)**[![github repo stars](https://img.shields.io/github/stars/PortNLP/WikiAtomic)](https://github.com/PortNLP/WikiAtomic)
+
+    *Yufei Tao, Adam Hiatt, Erik Haake, Antonie J. Jetter, Ameeta Agrawal.* EMNLP'24
 ### 2021
 1. **[Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913)** 
 
