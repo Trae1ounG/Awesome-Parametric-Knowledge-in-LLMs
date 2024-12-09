@@ -53,6 +53,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 9. **[When Context Leads but Parametric Memory Follows in Large Language Models](https://arxiv.org/abs/2409.08435)**[![github repo stars](https://img.shields.io/github/stars/PortNLP/WikiAtomic)](https://github.com/PortNLP/WikiAtomic)
 
     *Yufei Tao, Adam Hiatt, Erik Haake, Antonie J. Jetter, Ameeta Agrawal.* EMNLP'24
+
+10. **[Neuron-level knowledge attribution in large language models](https://arxiv.org/abs/2312.12141)**[![github repo stars](https://img.shields.io/github/stars/zepingyu0512/neuron-attribution)](https://github.com/zepingyu0512/neuron-attribution)
+
+    *Zeping Yu, Sophia Ananiadou.* EMNLP'24
 ### 2021
 1. **[Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913)** 
 
@@ -79,6 +83,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 3. **[Does Large Language Model contain Task-Specific Neurons.](https://aclanthology.org/2024.emnlp-main.403/)**
 
     *Ran Song, Shizhu He, Shuting Jiang, Yantuan Xian, Shengxiang Gao, Kang Liu, and Zhengtao Yu.* EMNLP'24
+
+4. **[Journey to the center of the knowledge neurons: Discoveries of language-independent knowledge neurons and degenerate knowledge neurons](http://arxiv.org/abs/2308.13198)**[![github repo stars](https://img.shields.io/github/stars/heng840/AMIG)](https://github.com/heng840/AMIG)
+
+    *Yuheng Chen, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao.* AAAI'24
 ### 2022
 1. **[Knowledge Neurons in Pretrained Transformers](https://arxiv.org/abs/2104.08696)**[![github repo stars](https://img.shields.io/github/stars/Hunter-DDM/knowledge-neurons)](https://github.com/Hunter-DDM/knowledge-neurons)
 
@@ -249,3 +257,23 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 1. **[The cost of compression: Investigating the impact of compression on parametric knowledge in language models](https://arxiv.org/abs/2312.00960)** [![github repo stars](https://img.shields.io/github/stars/NamburiSrinath/LLMCompression)](https://github.com/NamburiSrinath/LLMCompression)
 
     *Satya Sai Srinath Namburi, Makesh Sreedhar, Srinath Srinivasan, Frederic Sala.* EMNLP'23 findings
+
+## Knowledge Injection
+### 2023
+1. **[Memory injections: Correcting multi-hop reasoning failures during inference in transformer-based language models](http://arxiv.org/abs/2309.05605)**[![github repo stars](https://img.shields.io/github/stars/msakarvadia/memory_injections)](https://github.com/msakarvadia/memory_injections)
+
+    *Mansi Sakarvadia, Aswathy Ajith, Arham Khan, Daniel Grzenda, Nathaniel Hudson, André Bauer, Kyle Chard, Ian Foster.*	Oral Presentation at BlackboxNLP Workshop at EMNLP'23
+
+2. **[Decouple knowledge from parameters for plug-and-play language modeling](http://arxiv.org/abs/2305.11564)****[![github repo stars](https://img.shields.io/github/stars/Hannibal046/PlugLM)](https://github.com/Hannibal046/PlugLM)
+
+    *Xin Cheng, Yankai Lin, Xiuying Chen, Dongyan Zhao, Rui Yan.* ACL'23 findings
+### 2022
+1. **[Kformer: Knowledge injection in transformer feed-forward layers](http://arxiv.org/abs/2201.05742)**[![github repo stars](https://img.shields.io/github/stars/zjunlp/Kformer)](https://github.com/zjunlp/Kformer)
+
+    *Yunzhi Yao, Shaohan Huang, Li Dong, Furu Wei, Huajun Chen, Ningyu Zhang.* NLPCC'22
+
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Trae1ounG/Awesome-parametric-Knowledge-in-LLMs&type=Date)](https://star-history.com/#Trae1ounG/Awesome-parametric-Knowledge-in-LLMs&Date)
