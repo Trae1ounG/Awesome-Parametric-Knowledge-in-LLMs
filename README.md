@@ -267,6 +267,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 2. **[Decouple knowledge from parameters for plug-and-play language modeling](http://arxiv.org/abs/2305.11564)****[![github repo stars](https://img.shields.io/github/stars/Hannibal046/PlugLM)](https://github.com/Hannibal046/PlugLM)
 
     *Xin Cheng, Yankai Lin, Xiuying Chen, Dongyan Zhao, Rui Yan.* ACL'23 findings
+
+3. **[IN-PARAMETER KNOWLEDGE INJECTION: INTEGRATING TEMPORARY CONTEXTUAL INFORMATION INTO  MODEL PARAMETERS](https://openreview.net/forum?id=sl4hOq9wm9)**
+
+    submitted to ICLR'25
 ### 2022
 1. **[Kformer: Knowledge injection in transformer feed-forward layers](http://arxiv.org/abs/2201.05742)**[![github repo stars](https://img.shields.io/github/stars/zjunlp/Kformer)](https://github.com/zjunlp/Kformer)
 
