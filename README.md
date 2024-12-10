@@ -57,6 +57,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 10. **[Neuron-level knowledge attribution in large language models](https://arxiv.org/abs/2312.12141)**[![github repo stars](https://img.shields.io/github/stars/zepingyu0512/neuron-attribution)](https://github.com/zepingyu0512/neuron-attribution)
 
     *Zeping Yu, Sophia Ananiadou.* EMNLP'24
+
+11. **[Dissecting recall of factual associations in auto-regressive language models](http://arxiv.org/abs/2304.14767)**[[code](https://github.com/google-research/google-research/tree/master/dissecting_factual_predictions)]
+
+    *Mor Geva, Jasmijn Bastings, Katja Filippova, Amir Globerson.* EMNLP'23
 ### 2021
 1. **[Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913)** 
 
