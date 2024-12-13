@@ -227,7 +227,7 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 ## 2024
 1. **[Multi-property Steering of Large Language Models with Dynamic Activation Composition](https://arxiv.org/abs/2406.17563)** [![github repo stars](https://img.shields.io/github/stars/DanielSc4/Dynamic-Activation-Composition)](https://github.com/DanielSc4/Dynamic-Activation-Composition)
 
-*Daniel Scalena, Gabriele Sarti, Malvina Nissim.* ACL'24 BlackboxNLP Workshop
+    *Daniel Scalena, Gabriele Sarti, Malvina Nissim.* ACL'24 BlackboxNLP Workshop
 
 ## 2023
 1. **[Activation Addition: Steering Language Models Without Optimization](https://arxiv.org/abs/2308.10248v4)**
@@ -267,6 +267,7 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 1. **[Awakening augmented generation: Learning to awaken internal knowledge of large language models for question answering](http://arxiv.org/abs/2403.15268)**[![github repo stars](https://img.shields.io/github/stars/Xnhyacinth/IAG)](https://github.com/Xnhyacinth/IAG)
 
     [HyperNet, RAG, Context Compression]
+
     *Huanxuan Liao, Shizhu He, Yao Xu, Yuanzhe Zhang, Kang Liu, Shengping Liu, Jun Zhao.* AAAI'25
 
 
@@ -275,7 +276,7 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     *Mansi Sakarvadia, Aswathy Ajith, Arham Khan, Daniel Grzenda, Nathaniel Hudson, André Bauer, Kyle Chard, Ian Foster.*	Oral Presentation at BlackboxNLP Workshop at EMNLP'23
 
-2. **[Decouple knowledge from parameters for plug-and-play language modeling](http://arxiv.org/abs/2305.11564)****[![github repo stars](https://img.shields.io/github/stars/Hannibal046/PlugLM)](https://github.com/Hannibal046/PlugLM)
+2. **[Decouple knowledge from parameters for plug-and-play language modeling](http://arxiv.org/abs/2305.11564)**[![github repo stars](https://img.shields.io/github/stars/Hannibal046/PlugLM)](https://github.com/Hannibal046/PlugLM)
 
     *Xin Cheng, Yankai Lin, Xiuying Chen, Dongyan Zhao, Rui Yan.* ACL'23 findings
 
