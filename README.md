@@ -263,6 +263,13 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
     *Satya Sai Srinath Namburi, Makesh Sreedhar, Srinath Srinivasan, Frederic Sala.* EMNLP'23 findings
 
 ## Knowledge Injection
+### 2024
+1. **[Awakening augmented generation: Learning to awaken internal knowledge of large language models for question answering](http://arxiv.org/abs/2403.15268)**[![github repo stars](https://img.shields.io/github/stars/Xnhyacinth/IAG)](https://github.com/Xnhyacinth/IAG)
+
+    [HyperNet, RAG, Context Compression]
+    *Huanxuan Liao, Shizhu He, Yao Xu, Yuanzhe Zhang, Kang Liu, Shengping Liu, Jun Zhao.* AAAI'25
+
+
 ### 2023
 1. **[Memory injections: Correcting multi-hop reasoning failures during inference in transformer-based language models](http://arxiv.org/abs/2309.05605)**[![github repo stars](https://img.shields.io/github/stars/msakarvadia/memory_injections)](https://github.com/msakarvadia/memory_injections)
 
@@ -280,6 +287,19 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     *Yunzhi Yao, Shaohan Huang, Li Dong, Furu Wei, Huajun Chen, Ningyu Zhang.* NLPCC'22
 
+## Parameter-Effecient Fine-tuning(PEFT)
+### 2024
+1. **[KaSA: Knowledge-aware singular-value adaptation of large language models](http://arxiv.org/abs/2412.06071)**[![github repo stars](https://img.shields.io/github/stars/juyongjiang/KaSA)](https://github.com/juyongjiang/KaSA)
+
+    [Knowledge-aware LoRA, SVD]
+
+    *Fan Wang, Juyong Jiang, Chansung Park, Sunghun Kim, Jing Tang.* Preprint'24
+
+2. **[CorDA: Context-Oriented Decomposition Adaptation of Large Language Models for Task-Aware Parameter-Efficient Fine-tuning](https://arxiv.org/abs/2406.05223)**[![github repo stars](https://img.shields.io/github/stars/iboing/CorDA)](https://github.com/iboing/CorDA)
+
+    [Knowledge-aware LoRA, SVD]
+
+    *Yibo Yang, Xiaojie Li, Zhongzhu Zhou, Shuaiwen Leon Song, Jianlong Wu, Liqiang Nie, Bernard Ghanem.* NIPS'24
 
 
 ## Star History
