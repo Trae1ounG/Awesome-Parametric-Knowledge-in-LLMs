@@ -302,7 +302,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     *Yibo Yang, Xiaojie Li, Zhongzhu Zhou, Shuaiwen Leon Song, Jianlong Wu, Liqiang Nie, Bernard Ghanem.* NIPS'24
 
+3. **[DoRA: Weight-Decomposed Low-Rank Adaptation](https://arxiv.org/abs/2402.09353)**[![github repo stars](https://img.shields.io/github/stars/NVlabs/DoRA)](https://github.com/NVlabs/DoRA)
 
+    [Weight-Decomposed LoRA, SVD, Analysis of FT and LoRA]
+    *Shih-Yang Liu, Chien-Yi Wang, Hongxu Yin, Pavlo Molchanov, Yu-Chiang Frank Wang, Kwang-Ting Cheng, Min-Hung Chen.* ICML'24 Oral
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Trae1ounG/Awesome-parametric-Knowledge-in-LLMs&type=Date)](https://star-history.com/#Trae1ounG/Awesome-parametric-Knowledge-in-LLMs&Date)
