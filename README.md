@@ -114,6 +114,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     *Daniel Scalena, Gabriele Sarti, Malvina Nissim.* ACL'24 BlackboxNLP Workshop
 
+5. **[Exploring the benefit of activation sparsity in pre-training](http://arxiv.org/abs/2410.03440)**[![github repo stars](https://img.shields.io/github/stars/thunlp/moefication)](https://github.com/thunlp/moefication)
+
+    [MoE, Activation Sparsity, Activation Pattern, Inference Speedup]
+    *Zhengyan Zhang, Chaojun Xiao, Qiujieli Qin, Yankai Lin, Zhiyuan Zeng, Xu Han, Zhiyuan Liu, Ruobing Xie, Maosong Sun, Jie Zhou.* ICML'24
 ## 2023
 1. **[Activation Addition: Steering Language Models Without Optimization](https://arxiv.org/abs/2308.10248v4)**
 
