@@ -118,11 +118,17 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     [MoE, Activation Sparsity, Activation Pattern, Inference Speedup]
     *Zhengyan Zhang, Chaojun Xiao, Qiujieli Qin, Yankai Lin, Zhiyuan Zeng, Xu Han, Zhiyuan Liu, Ruobing Xie, Maosong Sun, Jie Zhou.* ICML'24
+
+
 ## 2023
 1. **[Activation Addition: Steering Language Models Without Optimization](https://arxiv.org/abs/2308.10248v4)**
 
     *Alexander Matt Turner, Lisa Thiergart, Gavin Leech, David Udell, Juan J. Vazquez, Ulisse Mini, Monte MacDiarmid.* Preprint'23
 
+2. **[Deja vu: Contextual sparsity for efficient LLMs at inference time](http://arxiv.org/abs/2310.17157)**
+
+    [Sparsity, Inference Speedup]
+    *Zichang Liu, Jue Wang, Tri Dao, Tianyi Zhou, Binhang Yuan, Zhao Song, Anshumali Shrivastava, Ce Zhang, Yuandong Tian, Christopher Re, Beidi Chen.* ICML'23
 
 
 
@@ -310,6 +316,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     [Weight-Decomposed LoRA, SVD, Analysis of FT and LoRA]
     *Shih-Yang Liu, Chien-Yi Wang, Hongxu Yin, Pavlo Molchanov, Yu-Chiang Frank Wang, Kwang-Ting Cheng, Min-Hung Chen.* ICML'24 Oral
+
+4. **[Low-rank adaptation with task-relevant feature enhancement for fine-tuning language models](http://arxiv.org/abs/2412.09827)**
+
+    [Task-aware LoRA, Hidden Representation Enhancement] AAAI'25 CoLoRAI Workshop
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Trae1ounG/Awesome-parametric-Knowledge-in-LLMs&type=Date)](https://star-history.com/#Trae1ounG/Awesome-parametric-Knowledge-in-LLMs&Date)
