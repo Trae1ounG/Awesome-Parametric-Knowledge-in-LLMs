@@ -220,6 +220,12 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
     [Task Vector, Parametric Knowledge, Knowledge Transfer]
 
     ACL'24
+
+7. **FedMKT: Federated Mutual Knowledge Transfer for Large and Small Language Models(https://arxiv.org/abs/2406.02224)**
+
+    [Federated Learning, Knowledge Transfer, Heterogeneous Token Alignment]
+
+    Coling'25
 ### 2023
 1. **[Mutual enhancement of large and small language models with cross-silo knowledge transfer](https://arxiv.org/abs/2312.05842)**
 
@@ -236,7 +242,7 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 4. **[Editing models with task arithmetic](http://arxiv.org/abs/2212.04089)**[![github repo stars](https://img.shields.io/github/stars/mlfoundations/task_vectors)](https://github.com/mlfoundations/task_vectors)
 
     [Task Vecotr, Parametric Knowledge, Knowledge Transfer, Multi-task Learning]
-    
+
     ICLR'23
     
 ### 2021
