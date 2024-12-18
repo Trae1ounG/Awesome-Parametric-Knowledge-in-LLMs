@@ -215,7 +215,11 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     *Alisa Liu, Xiaochuang Han, Yizhong Wang, Yulia Tsvetkov, Yejin Choi, Noah A. Smith.* COLM'24
 
+6. **[Chat vector: A simple approach to equip LLMs with instruction following and model alignment in new languages](http://arxiv.org/abs/2310.04799)**[![github repo stars](https://img.shields.io/github/stars/aqweteddy/ChatVector)](https://github.com/aqweteddy/ChatVector)
+    
+    [Task Vector, Parametric Knowledge, Knowledge Transfer]
 
+    ACL'24
 ### 2023
 1. **[Mutual enhancement of large and small language models with cross-silo knowledge transfer](https://arxiv.org/abs/2312.05842)**
 
@@ -228,6 +232,13 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 3. **[Retrieval-based knowledge transfer: An effective approach for extreme large language model compression](https://arxiv.org/abs/2310.15594)**
 
     *Jiduan Liu, Jiahao Liu, Qifan Wang, Jingang Wang, Xunliang Cai, Dongyan Zhao, Ran Lucien Wang, Rui Yan.* EMNLP'23 Findings
+
+4. **[Editing models with task arithmetic](http://arxiv.org/abs/2212.04089)**[![github repo stars](https://img.shields.io/github/stars/mlfoundations/task_vectors)](https://github.com/mlfoundations/task_vectors)
+
+    [Task Vecotr, Parametric Knowledge, Knowledge Transfer, Multi-task Learning]
+    
+    ICLR'23
+    
 ### 2021
 1. **[Weight distillation: Transferring the knowledge in neural network parameters](https://arxiv.org/abs/2009.09152)**[![github repo stars](https://img.shields.io/github/stars/Lollipop321/weight-distillation)](https://github.com/Lollipop321/weight-distillation)
 
