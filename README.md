@@ -221,11 +221,23 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     ACL'24
 
-7. **FedMKT: Federated Mutual Knowledge Transfer for Large and Small Language Models(https://arxiv.org/abs/2406.02224)**
+7. **[FedMKT: Federated Mutual Knowledge Transfer for Large and Small Language Models](https://arxiv.org/abs/2406.02224)**
 
     [Federated Learning, Knowledge Transfer, Heterogeneous Token Alignment]
 
     Coling'25
+
+8. **[Function vectors in large language models](http://arxiv.org/abs/2310.15213)**
+
+    [Function Vector, Causal Mediation, Mechanism Interpretation]
+
+    ICLR'24
+
+9. **[Refine large language model fine-tuning via instruction vector](http://arxiv.org/abs/2406.12227)**
+
+    [Catastrophic Forgetting, Function Vector, Causal Mediation]
+
+    Preprint'24
 ### 2023
 1. **[Mutual enhancement of large and small language models with cross-silo knowledge transfer](https://arxiv.org/abs/2312.05842)**
 
