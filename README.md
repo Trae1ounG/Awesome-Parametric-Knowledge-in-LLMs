@@ -174,6 +174,13 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 10. **[Forgetting before learning: Utilizing parametric arithmetic for knowledge updating in large language models](https://arxiv.org/abs/2311.08011)**
 
     *Shiwen Ni, Dingwei Chen, Chengming Li, Xiping Hu, Ruifeng Xu, Min Yang.* ACL'24
+
+11. **[Ethos: Rectifying language models in orthogonal parameter space](http://arxiv.org/abs/2403.08994)**
+
+    [Toxic/Bias Unlearning, SVD, Analysis of Parametric Knowledge, Task Vector]
+
+    NAACL'24 findings
+
 ### 2023
 1. **[Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/abs/2305.13172)**
 
@@ -238,6 +245,13 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
     [Catastrophic Forgetting, Function Vector, Causal Mediation]
 
     Preprint'24
+
+10. **[KlF: Knowledge localization and fusion for language model continual learning](http://arxiv.org/abs/2408.05200)**
+
+    [Catastrophic Forgetting, Continual Learning, Sensetity-based Location]
+
+    ACL'24
+
 ### 2023
 1. **[Mutual enhancement of large and small language models with cross-silo knowledge transfer](https://arxiv.org/abs/2312.05842)**
 
@@ -256,7 +270,12 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
     [Task Vecotr, Parametric Knowledge, Knowledge Transfer, Multi-task Learning]
 
     ICLR'23
-    
+
+5. **[Task-Specific Skill Localization in Fine-tuned Language Models](http://arxiv.org/abs/2302.06600)**
+
+    [Knowledge Transfer, Model Graft, Skill Parameter Localization]
+
+    ICML'23
 ### 2021
 1. **[Weight distillation: Transferring the knowledge in neural network parameters](https://arxiv.org/abs/2009.09152)**[![github repo stars](https://img.shields.io/github/stars/Lollipop321/weight-distillation)](https://github.com/Lollipop321/weight-distillation)
 
