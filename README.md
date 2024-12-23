@@ -276,6 +276,18 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
     [Knowledge Transfer, Model Graft, Skill Parameter Localization]
 
     ICML'23
+
+6. **[Composing parameter-efficient modules with arithmetic operations](http://arxiv.org/abs/2306.14870)**
+
+    [PEFT, Task Vector, Model Merge]
+
+    NIPS'23
+
+7. **[Dataless knowledge fusion by merging weights of language models](http://arxiv.org/abs/2212.09849)**
+
+    [Model Merge]
+
+    ICLR'23
 ### 2021
 1. **[Weight distillation: Transferring the knowledge in neural network parameters](https://arxiv.org/abs/2009.09152)**[![github repo stars](https://img.shields.io/github/stars/Lollipop321/weight-distillation)](https://github.com/Lollipop321/weight-distillation)
 
