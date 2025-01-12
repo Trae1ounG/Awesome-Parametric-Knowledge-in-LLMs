@@ -17,6 +17,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
 # Prametric Knowledge Detection
 ## Knowledge in Transformer-based Model——Analysis🧠
+### 2025
+1. **[Decoding specialised feature neurons in LLMs with the final projection layer](http://arxiv.org/abs/2501.02688)**
+
+    [Logits Lens, Analysis of Query Neuron]
 ### 2024
 1. **[What does the knowledge neuron thesis  have to do with knowledge? ](https://arxiv.org/abs/2405.02421)**
 
@@ -61,6 +65,7 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 11. **[Dissecting recall of factual associations in auto-regressive language models](http://arxiv.org/abs/2304.14767)**[[code](https://github.com/google-research/google-research/tree/master/dissecting_factual_predictions)]
 
     *Mor Geva, Jasmijn Bastings, Katja Filippova, Amir Globerson.* EMNLP'23
+
 ### 2021
 1. **[Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913)** 
 
@@ -252,7 +257,15 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     ACL'24
 
-### 2023
+11. **[Language models are super mario: Absorbing abilities from homologous models as a free lunch](http://arxiv.org/abs/2311.03099)**
+
+    [Knowledge Transfer, Model Merging, Efficient Skill] ICML'24
+
+12. **[Beyond task vectors: Selective task arithmetic based on importance metrics](http://arxiv.org/abs/2411.16139)**
+ 
+    [Task Vector, Sensetivity-based Importance Score, Model Merging] Preprint'24
+
+### 2023   
 1. **[Mutual enhancement of large and small language models with cross-silo knowledge transfer](https://arxiv.org/abs/2312.05842)**
 
     *Yongheng Deng, Ziqing Qiao, Ju Ren, Yang Liu, Yaoxue Zhang.* Preprint'23
@@ -380,6 +393,13 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 4. **[Low-rank adaptation with task-relevant feature enhancement for fine-tuning language models](http://arxiv.org/abs/2412.09827)**
 
     [Task-aware LoRA, Hidden Representation Enhancement] AAAI'25 CoLoRAI Workshop
+
+## Continual Learning
+### 2024
+1. **[Learn more, but bother less: Parameter efficient continual learning](https://neurips.cc/virtual/2024/poster/94599)**
+
+    [Continual Learning, Parameter Efficient, Knowledge Transfer] NIPS'24
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Trae1ounG/Awesome-parametric-Knowledge-in-LLMs&type=Date)](https://star-history.com/#Trae1ounG/Awesome-parametric-Knowledge-in-LLMs&Date)
