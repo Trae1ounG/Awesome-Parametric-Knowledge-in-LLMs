@@ -422,7 +422,7 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
 2. **[LLM maybe LongLM: Self-extend LLM context window without tuning](http://arxiv.org/abs/2401.01325)**
 
-    [Long Context Extend, Plug-and-Play Method]
+    [Long Context Extend, Plug-and-Play Method] ICML'24 Spotlight
 ### 2021
 1. **[RoFormer: Enhanced Transformer with Rotary Position Embedding.](https://arxiv.org/abs/2104.09864)**
 
