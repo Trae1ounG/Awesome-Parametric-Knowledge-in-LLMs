@@ -407,7 +407,7 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 2. **[What will my model forget? Forecasting forgotten examples in language model refinement](http://arxiv.org/abs/2402.01865)**
 
     [Catastrophic Forgetting, Forecasting Forgetting, Analysis] ICML'24 Spotlight
-## RAG
+## RAG & Long Context Extend
 ### 2024
 1. **[xRAG: Extreme context compression for retrieval-augmented generation with one token](http://arxiv.org/abs/2405.13792)**
 
@@ -416,6 +416,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 2. **[LongEmbed: Extending embedding models for long context retrieval](http://arxiv.org/abs/2404.12096)**
 
     [Long Context, Embedding Model, Benchmark] EMNLP'24
+
+3. **[LLM maybe LongLM: Self-extend LLM context window without tuning](http://arxiv.org/abs/2401.01325)**
+
+    [Long Context Extend, Plug-and-Play Method]
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Trae1ounG/Awesome-parametric-Knowledge-in-LLMs&type=Date)](https://star-history.com/#Trae1ounG/Awesome-parametric-Knowledge-in-LLMs&Date)
