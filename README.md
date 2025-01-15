@@ -423,10 +423,18 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 2. **[LLM maybe LongLM: Self-extend LLM context window without tuning](http://arxiv.org/abs/2401.01325)**
 
     [Long Context Extend, Plug-and-Play Method] ICML'24 Spotlight
+
+### 2022
+1. **[Train short, test long: Attention with linear biases enables input length extrapolation](http://arxiv.org/abs/2108.12409)**
+
+    [Alibi, Long Context Extrapolate, Training-based Method] ICLR'22
+
 ### 2021
 1. **[RoFormer: Enhanced Transformer with Rotary Position Embedding.](https://arxiv.org/abs/2104.09864)**
 
     [Rotary Position Embedding, Classic]
+
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Trae1ounG/Awesome-parametric-Knowledge-in-LLMs&type=Date)](https://star-history.com/#Trae1ounG/Awesome-parametric-Knowledge-in-LLMs&Date)
