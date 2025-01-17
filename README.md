@@ -424,6 +424,13 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     [Long Context Extend, Plug-and-Play Method] ICML'24 Spotlight
 
+3. **[Two stones hit one bird: Bilevel positional encoding for better length extrapolation](http://arxiv.org/abs/2401.16421)**
+
+    [Long Context Extend, Absolute PE + Relative PE, Plug-and-Play but Training-based Method] ICML'24
+### 2023
+1. **YaRN: Efficient context window extension of large language models[http://arxiv.org/abs/2309.00071]**
+
+    [Long Context Extend, Variation of RoPE] ICLR'24
 ### 2022
 1. **[Train short, test long: Attention with linear biases enables input length extrapolation](http://arxiv.org/abs/2108.12409)**
 
