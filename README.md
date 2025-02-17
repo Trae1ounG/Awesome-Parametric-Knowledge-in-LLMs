@@ -413,6 +413,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     [Context Compression, RAG, Multimodal Fusion] NIPS'24
 
+2. **[Parametric retrieval augmented generation](http://arxiv.org/abs/2501.15915)**
+
+    [Parametric RAG, Document Parameterization, Offline Method]
+
 ## Long Context Extend
 ### 2024
 
