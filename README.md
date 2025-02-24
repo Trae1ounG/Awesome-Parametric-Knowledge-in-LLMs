@@ -398,6 +398,9 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     [Task-aware LoRA, Hidden Representation Enhancement] AAAI'25 CoLoRAI Workshop
 
+5 **[Train small, infer large: Memory-efficient LoRA training for large language models](http://arxiv.org/abs/2502.13533)**
+
+    [Memory-efficient LoRA Training, Pruning Methods, High memory efficiency]
 ## Continual Learning
 ### 2024
 1. **[Learn more, but bother less: Parameter efficient continual learning](https://neurips.cc/virtual/2024/poster/94599)**
