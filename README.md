@@ -265,6 +265,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
  
     [Task Vector, Sensetivity-based Importance Score, Model Merging] Preprint'24
 
+13. **[Determine-then-ensemble: Necessity of top-k union for large language model ensembling](http://arxiv.org/abs/2410.03777)**
+
+    [Model Ensemble, Prabability-Level, Analysis] ICLR'25 Spotlight
+
 ### 2023   
 1. **[Mutual enhancement of large and small language models with cross-silo knowledge transfer](https://arxiv.org/abs/2312.05842)**
 
