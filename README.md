@@ -361,7 +361,9 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     *Huanxuan Liao, Shizhu He, Yao Xu, Yuanzhe Zhang, Kang Liu, Shengping Liu, Jun Zhao.* AAAI'25
 
+2. **[Generative Adapter: Contextualizing Language Models in Parameters with A Single Forward Pass](https://arxiv.org/abs/2411.05877)**
 
+    [Hypernetwork, Temperal Knowledge, Context Compression] ICLR'25
 ### 2023
 1. **[Memory injections: Correcting multi-hop reasoning failures during inference in transformer-based language models](http://arxiv.org/abs/2309.05605)**[![github repo stars](https://img.shields.io/github/stars/msakarvadia/memory_injections)](https://github.com/msakarvadia/memory_injections)
 
