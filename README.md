@@ -426,6 +426,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     [Parametric RAG, Document Parameterization, Offline Method]
 
+3. **[RAGTruth: A hallucination corpus for developing trustworthy retrieval-augmented language models](http://arxiv.org/abs/2401.00396)**
+
+    [RAG, Hallucination, Benchmark] ACL'24
+
 ## Long Context Extend
 ### 2024
 
