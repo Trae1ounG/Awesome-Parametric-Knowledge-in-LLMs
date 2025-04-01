@@ -417,6 +417,12 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     [Catastrophic Forgetting, Forecasting Forgetting, Analysis] ICML'24 Spotlight
 ## RAG  
+
+### 2025
+1. **[Better wit than wealth: Dynamic Parametric Retrieval Augmented Generation for Test-time Knowledge Enhancement](https://arxiv.org/abs/2503.23895)** [[code](https://github.com/Trae1ounG/DyPRAG)] [[Homepage](https://trae1ounG.github.io/DyPRAG/)]
+
+    [Dynamic Parametric RAG, Test-time Knowledge Enhancement, Reducing RAG Hallucination, Plug-and-Play RAG Improvement] Arxiv'25
+
 ### 2024
 1. **[xRAG: Extreme context compression for retrieval-augmented generation with one token](http://arxiv.org/abs/2405.13792)**
 
@@ -429,6 +435,8 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 3. **[RAGTruth: A hallucination corpus for developing trustworthy retrieval-augmented language models](http://arxiv.org/abs/2401.00396)**
 
     [RAG, Hallucination, Benchmark] ACL'24
+
+
 
 ## Long Context Extend
 ### 2024
