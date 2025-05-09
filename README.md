@@ -66,6 +66,9 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     *Mor Geva, Jasmijn Bastings, Katja Filippova, Amir Globerson.* EMNLP'23
 
+12. **[INSIDE: LLMs' internal states retain the power of hallucination detection](http://arxiv.org/abs/2402.03744)**
+
+    [Hallucination Detection, Sequence-level] ICLR'24
 ### 2021
 1. **[Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913)** 
 
@@ -102,6 +105,13 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
     *Damai Dai, Li Dong, Yaru Hao, Zhifang Sui, Baobao Chang, Furu Wei.* ACL'22
 
 ## Knowledge in Transformer-based Model——Activation🫀
+### 2025
+1. **[Improving instruction-following in language models through activation steering](http://arxiv.org/abs/2410.12877)**
+    [Activation Steering, Instruction Following] ICLR'25
+
+2. **[Activation-informed merging of large language models](http://arxiv.org/abs/2502.02421)**
+    [Activation-based Model Merging] Arxiv'25
+
 ### 2024
 1. **[Separating tongue from thought: Activation patching reveals language-agnostic concept representations in transformers](https://arxiv.org/abs/2411.08745)** [![github repo stars](https://img.shields.io/github/stars/Butanium/llm-lang-agnostic)](https://github.com/Butanium/llm-lang-agnostic)
 
@@ -123,6 +133,7 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     [MoE, Activation Sparsity, Activation Pattern, Inference Speedup]
     *Zhengyan Zhang, Chaojun Xiao, Qiujieli Qin, Yankai Lin, Zhiyuan Zeng, Xu Han, Zhiyuan Liu, Ruobing Xie, Maosong Sun, Jie Zhou.* ICML'24
+
 
 
 ## 2023
@@ -206,6 +217,10 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     *Anton Sinitsin, Vsevolod Plokhotnyuk, Dmitriy Pyrkin, Sergei Popov, Artem Babenko.* ICLR'20
 ## Knowledge Transfer🧚‍♀️
+### 2025
+1. **[Unlocking efficient long-to-short LLM reasoning with model merging](http://arxiv.org/abs/2503.20641)**
+    [Model Merging for L2S] Arxiv'25
+
 ### 2024
 1. **[Seeking Neural Nuggets: Knowledge Transfer in Large Language Models from a Parametric Perspective](https://arxiv.org/abs/2310.11451)**
 
@@ -419,7 +434,7 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 ## RAG  
 
 ### 2025
-1. **[Better wit than wealth: Dynamic Parametric Retrieval Augmented Generation for Test-time Knowledge Enhancement](https://arxiv.org/abs/2503.23895)** [[code](https://github.com/Trae1ounG/DyPRAG)] [[Homepage](https://trae1ounG.github.io/DyPRAG/)]
+1. **[Dynamic Parametric Retrieval Augmented Generation for Test-time Knowledge Enhancement](https://arxiv.org/abs/2503.23895)** [[code](https://github.com/Trae1ounG/DyPRAG)] [[Homepage](https://trae1ounG.github.io/DyPRAG/)]
 
     [Dynamic Parametric RAG, Test-time Knowledge Enhancement, Reducing RAG Hallucination, Plug-and-Play RAG Improvement] Arxiv'25
 
@@ -466,6 +481,20 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
 
     [Rotary Position Embedding, Classic]
 
+## Long2Short Compression
+### 2025
+1. **[TokenSkip: Controllable chain-of-thought compression in LLMs](http://arxiv.org/abs/2502.12067)**
+    [L2S, LLMLingua-based Compression, Fine-tune] Arxiv'25
+
+2. **[CoT-valve: Length-compressible chain-of-thought tuning](http://arxiv.org/abs/2502.09601)**
+    [L2S, Task-vector-based Compression, Fine-tune] Arxiv'25
+
+### 2024
+1. **[LLMLingua-2: Data distillation for efficient and faithful task-agnostic prompt compression](http://arxiv.org/abs/2403.12968)**
+    [Prompt Compression] ACL'24 Findings
+### 2023
+1. **[LLMLingua: Compressing prompts for accelerated inference of large language models](http://arxiv.org/abs/2310.05736)**
+    [Prompt Compression, Bert Model] EMNLP'23
 
 ## Star History
 
