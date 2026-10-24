@@ -433,10 +433,19 @@ We believe that the parametric knowledge in LLMs is still a largely unexplored a
     [Catastrophic Forgetting, Forecasting Forgetting, Analysis] ICML'24 Spotlight
 ## RAG  
 
+### 2026
+1. **[SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2606.27786)** [[code](https://github.com/OpenBMB/SPARK)]
+
+    [Knowledge Conflicts, Parametric Knowledge Participation, FFN Modulation, Faithful RAG] Arxiv'26
+
 ### 2025
 1. **[Dynamic Parametric Retrieval Augmented Generation for Test-time Knowledge Enhancement](https://arxiv.org/abs/2503.23895)** [[code](https://github.com/Trae1ounG/DyPRAG)] [[Homepage](https://trae1ounG.github.io/DyPRAG/)]
 
     [Dynamic Parametric RAG, Test-time Knowledge Enhancement, Reducing RAG Hallucination, Plug-and-Play RAG Improvement] Arxiv'25
+
+2. **[ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2502.15543)** [[code](https://github.com/OpenBMB/ParamMute)]
+
+    [Knowledge Conflicts, FFN Suppression, Faithful RAG, Benchmark] NIPS'25
 
 ### 2024
 1. **[xRAG: Extreme context compression for retrieval-augmented generation with one token](http://arxiv.org/abs/2405.13792)**
